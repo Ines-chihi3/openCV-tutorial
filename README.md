@@ -1,5 +1,5 @@
 # openCV-tutorial
-notebook cover basic notion of computer vision and image processing with opencv , and some simple project 
+notebook covers basic notions of computer vision and image processing with opencv, and some simple project 
 
 
 
